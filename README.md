@@ -1,4 +1,4 @@
-# ICP projekt - varianta 2: Editor a interpret hierarchicky strukturovaných funkčních bloků
+# Editor a interpret hierarchicky strukturovaných funkčních bloků
 
 ![alt text](ICP_nahlad.png)
 
